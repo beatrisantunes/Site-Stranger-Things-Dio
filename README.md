@@ -4,7 +4,7 @@ Site criado na semana front-end da Digital Innovation One Inc. para cadastro de 
 
 ### O projeto
 
-Criaçâo de um  site portfólio usando HTML, CSS e JavaScript, para cadastro de formulário do clube de D&D de Stranger Things.
+Criaçâo de um  site com tema de Stranger Things usando HTML, CSS e JavaScript, para cadastro de formulário do clube de D&D de Stranger Things.
 
 
 ### Resultado do projeto
