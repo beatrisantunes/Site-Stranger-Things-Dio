@@ -2,7 +2,7 @@
 
 Site criado na semana front-end da Digital Innovation One Inc. para cadastro de formulário do clube de D&D de Stranger Things.
 
-## Resultado do projeto:
+## 📌 Resultado:
 
 <img width="500"  src="https://i.imgur.com/d6w2LTI.jpg"/>
 
@@ -11,12 +11,12 @@ Site criado na semana front-end da Digital Innovation One Inc. para cadastro de 
 
 Criaçâo de um  site com tema de Stranger Things usando HTML, CSS e JavaScript, para cadastro de formulário do clube de D&D de Stranger Things.
 
-## 🛠 Tecnologias: 
+## 💻🛠 Tecnologias e Ferramentas: 
   - HTML
   - CSS
   - JavaScript
   - Git e Github
 
-## Link:
+## 🔗Link:
 
-[🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Site-Stranger-Things-Dio/)
+[ Site ](https://beatrisantunes.github.io/Site-Stranger-Things-Dio/)
